@@ -1,0 +1,10 @@
+C:\Users\Samantha\Documents\Fall 2019\BCS426\BCS426Homework3\BCS426Homework3\bin\Debug\BCS426Homework3.exe.config
+C:\Users\Samantha\Documents\Fall 2019\BCS426\BCS426Homework3\BCS426Homework3\bin\Debug\BCS426Homework3.exe
+C:\Users\Samantha\Documents\Fall 2019\BCS426\BCS426Homework3\BCS426Homework3\bin\Debug\BCS426Homework3.pdb
+C:\Users\Samantha\Documents\Fall 2019\BCS426\BCS426Homework3\BCS426Homework3\bin\Debug\BCS426Homework3DLL.dll
+C:\Users\Samantha\Documents\Fall 2019\BCS426\BCS426Homework3\BCS426Homework3\bin\Debug\BCS426Homework3DLL.pdb
+C:\Users\Samantha\Documents\Fall 2019\BCS426\BCS426Homework3\BCS426Homework3\obj\Debug\BCS426Homework3.csprojAssemblyReference.cache
+C:\Users\Samantha\Documents\Fall 2019\BCS426\BCS426Homework3\BCS426Homework3\obj\Debug\BCS426Homework3.csproj.CoreCompileInputs.cache
+C:\Users\Samantha\Documents\Fall 2019\BCS426\BCS426Homework3\BCS426Homework3\obj\Debug\BCS426Homework3.csproj.CopyComplete
+C:\Users\Samantha\Documents\Fall 2019\BCS426\BCS426Homework3\BCS426Homework3\obj\Debug\BCS426Homework3.exe
+C:\Users\Samantha\Documents\Fall 2019\BCS426\BCS426Homework3\BCS426Homework3\obj\Debug\BCS426Homework3.pdb
